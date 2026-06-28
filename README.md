@@ -1,6 +1,6 @@
 # Bank App (WPF)
  
-A small university project implementing a bank management application.
+A small project implementing a bank management application.
  
 Written in 2024.
  
